@@ -1,11 +1,11 @@
 ---
-name: Ghost
-id: ghost
+name: Idan
+id: idan
 image: /images/ghost-icon.png
 cover:
-website: https://github.com/empress/empress-blog
+website: https://cranky-babbage-f683d5.netlify.app/
 twitter:
 facebook:
 location:
 ---
-You can delete this user to remove all the welcome posts
+Idan is the creator of this website
